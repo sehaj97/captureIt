@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <section>
+    <h1>
+      NAME
+    </h1>
+    <p>
+      DESCRIPTION
+    </p>
+  </section>
+</DocumentFragment>
+`;
